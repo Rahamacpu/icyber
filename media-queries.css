@@ -1,0 +1,324 @@
+@media (max-width:4140px){
+    .wrapper{
+        flex-direction: column;
+        height: auto;
+    }
+    .logo{
+        order: 1;
+        width: 100%;
+    }
+    .navbar{
+        flex-direction: column;
+        width: 100%;
+    }
+    .navbar a{
+        order: 2;
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 1.5em;
+
+    }
+    .button{
+        order: 3;
+        width: 100%;
+        margin-top: 15px;
+    }
+    .body{
+          
+        margin: 0;
+        padding-top: 0;
+    }
+    .h1{
+        order: 4;
+        height: auto;
+        flex-direction: column;
+        width: 100%;
+        font-size: 1.5rem;
+        margin-left: 400px;
+    }
+    .location{
+        order: 5;
+        flex-direction: column;
+        width: 100%;
+    }
+    .footer{
+        order: 6;
+        flex-direction: column;
+        width: 100%;
+        margin-bottom: 0px;
+
+    }
+    .footer .fa-solid{
+        flex-direction: column;
+        margin: 10px;
+        width: 100%;
+    }
+    .wrapper1{
+        flex-direction: column;
+        height: auto;
+    }
+    .test{
+        order: 1;
+        width: 100%;
+    }
+    .navbar1{
+        flex-direction: column;
+        width: 100%;
+    }
+    .navbar1 a{
+      order: 2;
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 1.5em;
+  
+    }
+    .body1{
+         order: 4;
+        margin: 0;
+        padding: 0;
+    }
+    .me{
+         order: 5;
+        font-size: 1rem;
+        margin-left: 25rem;
+    }
+    .wrapper2{
+        flex-direction: column;
+        height: 100%;
+    }
+    .test2{
+        order: 1;
+        width: 100%;
+    }
+    .navbar2{
+        flex-direction: column;
+        width: 100%;
+
+    }
+    .navbar2 a{
+         order: 2;
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 1.5em;
+    }
+    .body2{
+         order: 3;
+        margin: 0;
+        padding: 0;
+    }
+    .service{
+        order: 4;
+        font-size: 1rem;
+        margin-left: 25rem;
+    }
+    .wrapper3{
+        flex-direction: column;
+        height: auto;
+        width: 100%;
+        
+    }
+    .test3{
+        order: 1;
+        width: 100%;
+    }
+    .navbar3{
+        flex-direction: column;
+        width: 100%
+        
+    }
+    .navbar3 a{
+         order: 2;
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 1.5em;
+        padding: 10px;
+        
+    }
+    .body3{
+         order: 3;
+        margin: 0;
+        padding: 0;
+    }
+    .me{
+        order: 4;
+        width: 100%;
+        font-size: 2rem;
+    }
+    .form{
+        order: 5;
+        padding: 1.5rem 0rem;
+    }
+    .button{
+        order: 6;
+        padding: 1.5rem 0rem;
+    }
+    
+
+
+
+
+}
+@media (max-width:320px){
+.wrapper{
+        flex-direction: column;
+        height: auto;
+    }
+    .logo{
+        order: 1;
+        width: 100%;
+    }
+    .navbar{
+        flex-direction: column;
+        width: 100%;
+    }
+    .navbar a{
+        order: 2;
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 1.5em;
+
+    }
+    .button{
+        order: 3;
+        width: 100%;
+        margin-top: 15px;
+    }
+    .body{
+          
+        margin: 0;
+        padding-top: 0;
+    }
+    .h1{
+        order: 4;
+        height: auto;
+        flex-direction: column;
+        width: 100%;
+        font-size: 1.5rem;
+        margin-left: 400px;
+    }
+    .location{
+        order: 5;
+        flex-direction: column;
+        width: 100%;
+    }
+    .footer{
+        order: 6;
+        flex-direction: column;
+        width: 100%;
+        margin-bottom: 0px;
+
+    }
+    .footer .fa-solid{
+        flex-direction: column;
+        margin: 10px;
+        width: 100%;
+    }
+    .wrapper1{
+        flex-direction: column;
+        height: auto;
+    }
+    .test{
+        order: 1;
+        width: 100%;
+    }
+    .navbar1{
+        flex-direction: column;
+        width: 100%;
+    }
+      .navbar1 a{
+      order: 2;
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 1.5em;
+  
+    }
+    .body1{
+         order: 4;
+        margin: 0;
+        padding: 0;
+    }
+    .me{
+         order: 5;
+        font-size: 1rem;
+        margin-left: 25rem;
+    }
+    .wrapper2{
+        flex-direction: column;
+        height: 100%;
+    }
+    .test2{
+        order: 1;
+        width: 100%;
+    }
+    .navbar2{
+        flex-direction: column;
+        width: 100%;
+
+    }
+     .navbar2 a{
+         order: 2;
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 1.5em;
+    }
+    .body2{
+         order: 3;
+        margin: 0;
+        padding: 0;
+    }
+    .service{
+        order: 4;
+        font-size: 1rem;
+        margin-left: 25rem;
+    }
+    .wrapper3{
+        flex-direction: column;
+        height: auto;
+        width: 100%;
+        
+    }
+    .test3{
+        order: 1;
+        width: 100%;
+    }
+    .navbar3{
+        flex-direction: column;
+        width: 100%
+        
+    }
+     .navbar3 a{
+         order: 2;
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 1.5em;
+        padding: 10px;
+        
+    }
+    .body3{
+         order: 3;
+        margin: 0;
+        padding: 0;
+    }
+    .me{
+        order: 4;
+        width: 100%;
+        font-size: 2rem;
+    }
+    .form{
+        order: 5;
+        padding: 1.5rem 0rem;
+    }
+    .button{
+        order: 6;
+        padding: 1.5rem 0rem;
+    }
+    
+}
