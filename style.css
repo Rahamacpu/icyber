@@ -18,7 +18,7 @@
 
 }
 .wrapper {
-    background-color:  aqua;
+    background-color:  rgb(202, 77, 77);
     width: 100%;
     padding-top: 0px;
     height: 100px;
@@ -39,40 +39,36 @@
 .navbar a{
     padding: 2.5rem;
     font-size: 1.5rem;
-    color: black;  
+    color: white;  
     text-decoration:none;
      position: relative;
 
 }
 .navbar a:hover{
-color:   rgb(240, 12, 12);
+color:   rgb(20, 19, 19);
 letter-spacing: 2px;
 }
 
-.button {
-    width: 5rem;
-    height: 30px;
-    border-radius: 1.9rem;
-    border-color:  white;
-    font-size: 20px;
-    color:   rgb(32, 26, 28);
-    margin-right: 1rem;
-    background-color:transparent;
-    border-radius: 1rem;
-}
-.button:hover{
+.fa-solid {
+    padding-right: 0;
+    
 
-     filter: drop-shadow(0px 10px 15px rgb(5, 4, 4));
+
+}
+.fa-solid:hover{
+
+     filter: drop-shadow(0px 10px 15px rgb(245, 15, 15));
 }
 .logo{
     border-radius: 100%;
     width: 100px;
     margin-left: 15px;
     background-color: aqua;
+
 }
 .logo:hover{
 
-     filter: drop-shadow(0px 10px 15px rgb(51, 5, 219));
+     filter: drop-shadow(0px 10px 15px rgb(243, 242, 247));
 }
 
 .h1{
