@@ -99,7 +99,7 @@ export function Footer() {
         </div>
 
         <div className="text-center text-sm text-muted-foreground flex flex-col md:flex-row items-center justify-between">
-          <p>&copy; {currentYear} icyber.tech. All rights reserved.</p>
+          <p>&copy; {currentYear} icyber.uk. All rights reserved.</p>
           <p className="mt-2 md:mt-0">Designed & Developed by Rahama</p>
         </div>
       </div>
