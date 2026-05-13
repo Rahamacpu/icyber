@@ -19,8 +19,8 @@ export function useSubmitContact() {
       formData.append("email", data.email);
       formData.append("message", data.message);
       formData.append("access_key", ACCESS_KEY);
-      formData.append("subject", `New message from ${data.name} via icyber.tech`);
-      formData.append("from_name", "icyber.tech");
+      formData.append("subject", `New message from ${data.name} via icyber.uk`);
+      formData.append("from_name", "icyber.uk");
 
       const response = await fetch("https://api.web3forms.com/submit", {
         method: "POST",
